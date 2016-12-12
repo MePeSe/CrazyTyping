@@ -8,9 +8,11 @@
 > Catalin Arsenescu
 
 ** Developers **
->Ionut Boboc
->Andreea Ifrim
->Alexandra Daraban
+> Ionut Boboc
+
+> Andreea Ifrim
+
+> Alexandra Daraban
 
 ** Tester **
->Andrei Eva
+> Andrei Eva
